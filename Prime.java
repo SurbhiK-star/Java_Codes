@@ -1,4 +1,6 @@
- class Prime {
+//Java Program to identify the Prime Number. 
+
+class Prime {
     public static void main(String args[])
     {
         int num=4;boolean flag=true;
