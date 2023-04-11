@@ -1,3 +1,5 @@
+//java program on switch case....
+
 class Marks
 {
     public static void main(String args[])
