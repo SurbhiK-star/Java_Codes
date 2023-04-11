@@ -1,4 +1,4 @@
-//Java Program to identify the Prime Number. 
+//Java Program to identify the Prime Number....
 
 class Prime {
     public static void main(String args[])
