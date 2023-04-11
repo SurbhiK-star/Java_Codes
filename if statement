@@ -1,0 +1,6 @@
+//-if conditional/selection statements....
+
+if(age>18)                                                 //condition
+{
+    System.out.println("Age is greater than 18");          //code to be executed
+}
